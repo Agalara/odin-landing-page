@@ -9,5 +9,5 @@ The design is provided in two different images :
 
 # goal 
 - To get by my own means as close as possible to the original web page,
-creating something from scratch.
+  creating something from scratch.
 - Add some personalization.
