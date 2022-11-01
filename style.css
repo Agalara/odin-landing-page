@@ -56,13 +56,25 @@ ul.header-links {
     padding: 0;
 } 
 
-.sign-up {
+.sign-up, .sign-up2 {
     background-color: #3882f6;
     padding: 5px 45px 5px;
     border-radius: 8px;
     font-size: 18px;
     font-weight: 900;
     color: #E5E7EB;
+
+}
+
+.sign-up2 {
+    border: 2px solid white;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+}
+.bottom {
+    background-color: #3882f6;
 
 }
 
