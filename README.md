@@ -7,7 +7,7 @@ The design is provided in two different images :
 - the other one has some details about some of the fonts and colors used.
 
 
-# goal 
+# Goal 
 - To get by my own means as close as possible to the original web page,
   creating something from scratch.
 - Add some personalization.
